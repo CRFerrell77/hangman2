@@ -1,0 +1,9 @@
+Ship Selected: delorian
+Ship Selected: nautilus
+Ship Selected: promethius
+Ship Selected: yamato
+Ship Selected: viper
+Ship Selected: pod racer
+Ship Selected: yamato
+Ship Selected: x wing
+Ship Selected: promethius
