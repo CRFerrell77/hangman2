@@ -12,17 +12,20 @@ word = function () {
         thisRndShip = newArr[rnd];
         console.log("ship to be chopped up on Word function " + thisRndShip);
         logger("Ship Selected: " + thisRndShip);
-        gameObj(thisRndShip); 
+        splitter(thisRndShip); 
     });    
+};
+
+splitter = function (value) {
+    var letters = value.split("");
+    console.log("letters from splitter function " + letters);
+    gameObj(letters);
 };
 
 function gameObj (ship) {
     this.ship = ship;
     console.log("gameObj constructor: " + this.ship);
-    this.letters = ship.split("");
-    console.log("letters from splitter function " + letters);
-    
-    letter(this.letters);
+    //letter(this.ship);
 };
 
 logger = function (data) {

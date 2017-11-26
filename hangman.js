@@ -1,12 +1,16 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
-var word = require("./word.js");
+var getWord = require("./word.js");
 var letter = require("./letter.js");
 
 var thisRndShip = "";
+var letters = [];
 
 hangman = function () {
-    word();
+    getWord();
+    // setTimeout(function() {
+    //    console.log(letters); 
+    // }, 1500);
     //letter();
 };
 

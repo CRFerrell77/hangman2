@@ -7,3 +7,21 @@ Ship Selected: pod racer
 Ship Selected: yamato
 Ship Selected: x wing
 Ship Selected: promethius
+Ship Selected: macross
+Ship Selected: serenity
+Ship Selected: light cycle
+Ship Selected: death star
+Ship Selected: planet express
+Ship Selected: battlestar galactica
+Ship Selected: planet express
+Ship Selected: x wing
+Ship Selected: x wing
+Ship Selected: orville
+Ship Selected: delorian
+Ship Selected: viper
+Ship Selected: yamato
+Ship Selected: viper
+Ship Selected: viper
+Ship Selected: death star
+Ship Selected: hyperion
+Ship Selected: bird of prey
